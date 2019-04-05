@@ -1,5 +1,5 @@
 {
-  "clients": [
+  "client1": 
     {
   "ClientIdentifierId": "12345678",
   "IdType": "NationalId",
@@ -24,7 +24,7 @@
   "MaritalStatusCode": "S",
   "PatientStatus": "Alive"
 },
-        {
+   "client2":     {
   "ClientIdentifierId": "12345677",
   "IdType": "NationalId",
   "IdNumber": "941467547v",
@@ -48,5 +48,5 @@
   "MaritalStatusCode": "S",
   "PatientStatus": "Alive"
 }
-  ]
+  
 }
