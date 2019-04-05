@@ -47,6 +47,7 @@
   "MaritalStatus": "Single",
   "MaritalStatusCode": "S",
   "PatientStatus": "Alive"
-}
+},
+  "bundle1": { "success": true, "outcome": { "id": "37f278b6-5697-11e9-8647-d663bd873d93", "total": "2", "entry": [ { "id": "12121212", "appointmentType": { "code": "ROUTINE" }, "status": "free", "start": "2018-05-13T00:00:00Z", "end": "2018-05-13T00:00:00Z" }, { "id": "23232323", "appointmentType": { "code": "ROUTINE" }, "status": "free", "start": "2018-05-13T00:00:00Z", "end": "2018-05-13T00:00:00Z" } ] } }
   
 }
